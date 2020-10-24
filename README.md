@@ -1,2 +1,2 @@
 # vim-config
-vim配置
+vim和zsh配置
